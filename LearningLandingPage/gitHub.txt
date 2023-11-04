@@ -1,0 +1,5 @@
+git init: Khởi tạo git
+git status: để xem trạng thái
+git add: để thêm file
+git commit -m "...": để commit + sử dụng comment cho người khác biết dùng để làm gì
+git remote  and origin https://github.com/TranLamSung/Figma-Learning_Landing_Page.git: dùng để đưa remo lên github
