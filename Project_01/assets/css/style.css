@@ -78,7 +78,7 @@ a {
 .header .body {
   display: flex;
   align-items: center;
-  padding: 36px 0 8px;
+  padding: 32px 0 8px;
 }
 .nav {
   margin-left: auto;

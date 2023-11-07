@@ -638,8 +638,9 @@ a {
 .footer .col a {
   color: var(--second-color);
 }
-.footer .col li:hover {
+.footer .col li:hover a {
   cursor: pointer;
+  color: black;
   font-weight: 700;
 }
 .footer .col li a {
